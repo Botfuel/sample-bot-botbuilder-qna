@@ -1,0 +1,17 @@
+{
+  "name": "demo-msexp2017",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "botbuilder": "^3.10.2",
+    "botfuel-nlp-sdk": "^1.1.1",
+    "botfuel-qna-sdk": "^1.1.0",
+    "restify": "^4.3.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
