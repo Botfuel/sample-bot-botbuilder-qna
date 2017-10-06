@@ -10,9 +10,9 @@ npm install
 
 ### Create your (free) QnA bot on Botfuel's portal
 
-- Create an account [here](https://app.botfuel.io/signup)
+- Create an account [here](https://app.botfuel.io/signup);
 
-- Once logged, create an app, select your plan and option `Botfuel QnA`.
+- Once logged, create an app, select your plan and option `Botfuel QnA`;
 
 - Once on the App dashboard, copy your app credentials and set them in `app.js`:
 ```
@@ -38,9 +38,8 @@ node app.js
 
 You can use [Microsoft Bot Framework channel emulator](https://github.com/Microsoft/BotFramework-Emulator):
 
-- Download, install and run it.
-- Enter your bot endpoint: `http://localhost:3978/api/messages`
+- Download, install and run it;
+- Enter your bot endpoint: `http://localhost:3978/api/messages`;
 - You don't need Microsoft credentials to run it locally, so just click `Connect`.
 
 You should now be able to talk to your bot on this interface. If not, don't hesitate to create an [issue](./issues), we'll do our best to help.
-
