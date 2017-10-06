@@ -42,4 +42,5 @@ You can use [Microsoft Bot Framework channel emulator](https://github.com/Micros
 - Enter your bot endpoint: `http://localhost:3978/api/messages`;
 - You don't need Microsoft credentials to run it locally, so just click `Connect`.
 
-You should now be able to talk to your bot on this interface. If not, don't hesitate to create an [issue](./issues), we'll do our best to help.
+You should now be able to talk to your bot on this interface. If not, don't hesitate to create an [issue](../../issues), we'll do our best to help.
+
