@@ -9,6 +9,7 @@ module.exports = {
   BOT_ASK_FOR_SELECT_ACTION:
     'Je ne suis pas sur de comprendre, aidez-moi à choisir:',
   BOT_RECALL_USER_QUESTION: 'Vous avez demandé:',
+  DEFAULT_MESSAGE: 'Message par défaut',
   isGreetings: text => {
     return GREETINGS.some(word => word === text.toLowerCase());
   },

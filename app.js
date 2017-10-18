@@ -10,11 +10,12 @@ const {
   BOT_SAY_GOODBYE,
   BOT_ASK_FOR_SELECT_ACTION,
   BOT_RECALL_USER_QUESTION,
+  DEFAULT_MESSAGE,
 } = require('./messages');
 
 // Botfuel App credentials
-const appId = '<YOUR_APP_ID>';
-const appKey = '<YOUR_APP_KEY>';
+const appId = '518d51a9';
+const appKey = '3d677c50843ca63f3e2cdd5b6fafe705';
 
 const spellchecker = new Spellchecking({ appId, appKey });
 const QnAClient = new QnA({ appId, appKey });
