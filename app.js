@@ -10,6 +10,7 @@ const {
   BOT_SAY_GOODBYE,
   BOT_ASK_FOR_SELECT_ACTION,
   BOT_RECALL_USER_QUESTION,
+  DEFAULT_MESSAGE,
 } = require('./messages');
 
 // Botfuel App credentials
