@@ -1,6 +1,11 @@
 {
   "name": "demo-msexp2017",
   "version": "1.0.0",
+  "author": {
+    "name": "Botfuel",
+    "email": "hi@botfuel.io",
+    "url": "https://www.botfuel.io"
+  },
   "description": "",
   "license": "Apache-2.0",
   "main": "app.js",
@@ -12,6 +17,5 @@
     "botfuel-nlp-sdk": "^1.1.1",
     "botfuel-qna-sdk": "^1.1.0",
     "restify": "^4.3.0"
-  },
-  "author": ""
+  }
 }
