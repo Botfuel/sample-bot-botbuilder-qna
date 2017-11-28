@@ -44,3 +44,6 @@ You can use [Microsoft Bot Framework channel emulator](https://github.com/Micros
 
 You should now be able to talk to your bot on this interface. If not, don't hesitate to create an [issue](../../issues), we'll do our best to help.
 
+## License
+
+See the [LICENSE](LICENSE.md) file.
